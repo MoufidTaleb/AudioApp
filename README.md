@@ -4,7 +4,7 @@
 - Having created /www/uploads in WAMP directory
 - Having installed Node.JS
 - Having installed Git
-- Having fixed the post_max_size to 8Mbs in the php.ini file
+- Having fixed the upload_max_size to 8Mbs in the php.ini file
 
 ##Downloading the project
 
